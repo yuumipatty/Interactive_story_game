@@ -32,16 +32,14 @@ The Interactive Story Game is a text-based adventure that immerses players in a 
 - **Left Path**: Find a treasure chest and choose to open it or leave it. Discover items like gold coins, magic potions, or old maps.
 - **Right Path**: Encounter a dragon and choose to fight or run. Use items from your inventory to aid your decisions.
 
-## Installation
-
-To play the game, follow these steps:
+License
+This project is licensed under the MIT License - see the LICENSE file for details. Let me know if you need any further assistance!
 
 Clone the repository:
    ```bash
    git clone https://github.com/yourusername/interactive_story_game.git
 
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details. Let me know if you need any further assistance!
+
 
   
