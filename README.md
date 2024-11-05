@@ -38,8 +38,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Clone the repository:
    ```bash
    git clone https://github.com/yourusername/interactive_story_game.git
-
-
-
-
-  
