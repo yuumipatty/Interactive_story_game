@@ -15,7 +15,7 @@ Welcome to the **Interactive Story Game**! This text-based adventure game allows
 
 The Interactive Story Game is a text-based adventure that immerses players in a fantastical world filled with treasures, dragons, and unexpected events. Players make choices that shape their journey, adding an element of strategy and excitement.
 
-## Features
+## Features --
 - Multiple choice scenarios leading to different outcomes.
 - Simple inventory system to keep track of collected items.
 - Character animation that enhances the visual experience.
