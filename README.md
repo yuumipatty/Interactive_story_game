@@ -1,4 +1,4 @@
-# Interactive Story Game ###
+# Interactive Story Game ####
 
 Welcome to the **Interactive Story Game**! This text-based adventure game allows players to navigate through different paths, make choices, and discover exciting scenarios while managing a simple inventory system.
 
